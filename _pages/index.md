@@ -2,22 +2,27 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Coskun Oba
 ---
 
-## What is it?
+**M.Sc. Nuclear Astrophysics, 1998**  
+[Colorado School of Mines](https://www.mines.edu/), Golden, CO, U.S.A.
+
+<hr />
 
 {% include components/intro.md %}
 
 [Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
 
-## How to use it
+* 2017 – Patent of the year award, NEOPOST, North America 
+* 2015 - Postal address recognition using Fuzzy Token Match based on String Similarity Join  
+         Patent - [US20170220975A1]((http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20170220975.PGNR.))    
+* 2011 - Pre-Commissioning Status of FTS-2, the SCUBA-2 Imaging Fourier Transform Spectrometer
+* 2004 - [Finding IP Address Information (.NET)](https://www.codeproject.com/Articles/5657/Finding-IP-Address-Information)
+* 1998 - Effects of the   <sup>3</sup>He (d, p) <sup>4</sup>He reaction in low mass main sequence stars
+* 1995 - Scholarship from the Ministry of Education
 
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
 
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
-
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
 
 <hr />
 
